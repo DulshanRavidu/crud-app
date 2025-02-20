@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "sample-crud-be.client", "sample-crud-be.client\sample-crud-be.client.esproj", "{6DC5C4E0-C113-A29A-E519-529BF9131802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-crud-be.Server", "sample-crud-be.Server\sample-crud-be.Server.csproj", "{B22266C3-834A-4FED-BD13-714C252031FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DC5C4E0-C113-A29A-E519-529BF9131802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC5C4E0-C113-A29A-E519-529BF9131802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC5C4E0-C113-A29A-E519-529BF9131802}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6DC5C4E0-C113-A29A-E519-529BF9131802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC5C4E0-C113-A29A-E519-529BF9131802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC5C4E0-C113-A29A-E519-529BF9131802}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B22266C3-834A-4FED-BD13-714C252031FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22266C3-834A-4FED-BD13-714C252031FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22266C3-834A-4FED-BD13-714C252031FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22266C3-834A-4FED-BD13-714C252031FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7C29AA-30AE-458D-941A-259A9F5ECAA3}
+	EndGlobalSection
+EndGlobal
